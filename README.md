@@ -50,10 +50,11 @@
 		6라인 ~ : 실행 중인 프로세스들 상세 정보( 정렬 순서 : CPU 사용량 내림차순 )
     
 		+ 실행 중인 명령어를 종료하려면 q
-		<img width="1701" alt="top" src="https://user-images.githubusercontent.com/66362449/171820165-2ee90738-7956-417c-84bb-c6abe5d86d74.png">
+		
+		
+<img width="1000" src="https://user-images.githubusercontent.com/66362449/171820165-2ee90738-7956-417c-84bb-c6abe5d86d74.png">
 
 		
-
 
 	# ps : 실시간으로 변경되는 프로세스의 상태 정보 (명령어 실행 시점의 정보)
   
