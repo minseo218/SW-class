@@ -71,7 +71,9 @@
 		-A : 모든 프로세스 출력하는 옵션
     
 		-l : 자세한 정보
-    
+ <img width="319" alt="ps" src="https://user-images.githubusercontent.com/66362449/171822320-1f09f113-6b07-40d7-9062-33618693510e.png">
+
+
 
 	# jobs : 백드라운드로 실행되는 작업의 상태를 표시하는 명령어
   
